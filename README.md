@@ -1,31 +1,33 @@
-# Library Management System Project
+# Music Vocabulary Hangman Game
 
-This project is a Library Management System that provides both a librarian interface for managing the library inventory and a user interface for searching, checking in and checking out books.
+This project is a Music Vocabulary Hangman Game aimed at helping students learn and reinforce their understanding of music terminology in an engaging and interactive manner.
 
 ### Features:
 
-#### Librarian Interface:
-- Add, remove, and search for books in the library inventory.
-- Generate reports of books borrowed and books available in the inventory.
+#### Game Mechanics:
+- Players guess letters to reveal hidden music-related terms.
 
-#### User Interface:
-- Search for books based on title, author, genre, release year, or other criteria.
-- Check-in and check-out books if they are available in the inventory.
+#### Vocabulary List::
+- The game features a curated list of music terms, including words like "allegro," "crescendo," "melody," and "fortissimo," to enhance students' musical vocabulary.
 
-#### Database Management:
-- All data is stored in a local MySQL server for efficient data management and retrieval. (CRUD)
+#### User Interaction:
+- Players receive immediate feedback on their guesses, with messages indicating whether the guess was correct or not.
+A celebratory message is displayed when a player correctly guesses the word, encouraging a positive learning experience.
+
+### Replayability:
+- After each game, players can choose to play again, allowing for continuous learning and practice.
 
 ### Requirement:
-- Python 3.11.0
+Python 3.11.0
   
 ## Run the app
 
-Clone this repo then `cd Library-Management-System`.
+Clone this repo then cd Musical Hangman.
 
-Assuming you have Python3 installed on a Windows 10 or 11 or on MacOS, run this commands:
+Assuming you have Python3 installed on Windows 10, 11, or macOS, run the following command:
 
 ``` bash
-python main.py
+python Musical-Hangman.py
 ```
 
 ---
