@@ -19,6 +19,12 @@ A celebratory message is displayed when a player correctly guesses the word, enc
 
 ### Requirement:
 Python 3.11.0
+
+### Project Screenshot
+![Alt text](https://github.com/brianwpiano/Musical-Hangman/blob/main/Screenshot%202024-10-18%20122734.png)
+![Alt text](https://github.com/brianwpiano/Musical-Hangman/blob/main/Screenshot%202024-10-18%20122754.png)
+![Alt text](https://github.com/brianwpiano/Musical-Hangman/blob/main/Screenshot%202024-10-18%20122812.png)
+![Alt text](https://github.com/brianwpiano/Musical-Hangman/blob/main/Screenshot%202024-10-18%20123008.png))
   
 ## Run the app
 
