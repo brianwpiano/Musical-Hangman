@@ -14,7 +14,7 @@ This project is a Music Vocabulary Hangman Game aimed at helping students learn 
 - Players receive immediate feedback on their guesses, with messages indicating whether the guess was correct or not.
 A celebratory message is displayed when a player correctly guesses the word, encouraging a positive learning experience.
 
-### Replayability:
+#### Replayability:
 - After each game, players can choose to play again, allowing for continuous learning and practice.
 
 ### Requirement:
